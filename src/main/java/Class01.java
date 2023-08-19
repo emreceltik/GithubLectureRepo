@@ -10,6 +10,9 @@ public class Class01 {
         //Versiyon 3 Kodlari
         System.out.println("Version3");
 
+        //Versiyon 6 kodlari
+        System.out.println("Version6");
+
 //git init ==>ile terminalden kaydediyoruz. (repostories -kaydedecegimiz yer- oluşturuyoruz
 //kod yazdigimiz yer WS (working space)
 //git status ==>statüyü kontrol ettiriyor (guncellenmis kod var ise bize soyluyor, SA'ya gonderilecek kodlari)
